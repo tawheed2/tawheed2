@@ -1,4 +1,4 @@
-![Header](./https://github.com/tawheed2/tawheed2/blob/main/github-header-banner.png)
+![Header](https://github.com/tawheed2/tawheed2/blob/main/github-header-banner.png)
 <h2 align="left">Hi 👋! My name is Tawheed Younis and I'm a Digital Marketer & Kashmir Youth Icon from Srinagar</h2>
 
 ###
