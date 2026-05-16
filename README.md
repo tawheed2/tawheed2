@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! My name is tawheed younis and I'm a freelance, from ....</h2>
+<h2 align="left">Hi 👋! My name is Tawheed Younis and I'm a Digital Marketer & Kashmir Youth Icon from Srinagar</h2>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouaza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
@@ -31,12 +31,33 @@
 
 ###
 
-<div align="left">
+### 🚀 About Me  
+- 🌍 Srinagar-based **Digital Marketing Expert**  
+- 🏆 **3× Kashmir Youth Icon Award Winner (2023–2025)**  
+- 💼 Specializing in **Meta Ads, Google Ads, Social Media Marketing, Content Creation, Video Editing, and Web Development (HTML/CSS)**  
+- 📈 Helped brands achieve **3.8× ROAS**, ₹1.2L+ revenue, and 50K+ followers growth  
+- 🎯 Passionate about **entrepreneurship, ethical marketing, and building impactful brands**  
 
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
- 
-   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+###
+
+### 🛠 Skills & Tools  
+- **Digital Marketing**: Meta Ads, Google Ads, Social Media Strategy  
+- **Design & Content**: Canva, Photoshop, Video Editing, Branding  
+- **Development**: HTML, CSS, React, Python, C#  
+- **Entrepreneurship & Leadership**  
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/official__tawheed_02/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:tawheedb233@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/bhat-tawheed-956aab340">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
