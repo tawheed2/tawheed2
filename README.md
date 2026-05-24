@@ -50,7 +50,7 @@
 ###
 
 <div align="left">
-  <a href="[https://www.instagram.com/official__tawheed_02/](https://www.instagram.com/tawheed_younis_02?igsh=MXBtNXRndmI0aHl2cA==)">
+  <a href="https://www.instagram.com/tawheed_younis_02?igsh=MXBtNXRndmI0aHl2cA==">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:tawheedb233@gmail.com">
